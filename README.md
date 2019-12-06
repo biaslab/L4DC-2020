@@ -5,3 +5,6 @@ To run the experiments from AR-HGF.ipynb you need to install the following depen
 - Distributions.jl
 - FastGaussQuadrature.jl
 - ForwardDiff.jl
+- ProgressMeter.jl
+- LaTeXStrings.jl
+- DSP.jl
